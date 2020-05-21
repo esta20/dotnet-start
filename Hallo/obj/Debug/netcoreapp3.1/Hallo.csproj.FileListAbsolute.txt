@@ -1,0 +1,13 @@
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo.deps.json
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo.runtimeconfig.json
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo.runtimeconfig.dev.json
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo.dll
+/home/esta/Documents/DotNet/Hallo/bin/Debug/netcoreapp3.1/Hallo.pdb
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.csprojAssemblyReference.cache
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.csproj.CoreCompileInputs.cache
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.AssemblyInfoInputs.cache
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.AssemblyInfo.cs
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.dll
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.pdb
+/home/esta/Documents/DotNet/Hallo/obj/Debug/netcoreapp3.1/Hallo.genruntimeconfig.cache

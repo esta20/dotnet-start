@@ -1,13 +1,12 @@
 ﻿using System;
 
-namespace CSharpCorePFCursus
+namespace Hallo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hal"
-                + "lo");
+            Console.WriteLine("Hello World!");
         }
     }
 }
