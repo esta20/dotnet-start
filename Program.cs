@@ -6,7 +6,7 @@ namespace CSharpCorePFCursus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("Tere");
             Console.WriteLine("Hal"
                 + "lo");
         }
